@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Colorful Form Website</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./styles.css">
+</head>
+<body background="image.jpg">
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="home">
+			<div class="container">
+				<h1>Welcome to my website</h1>
+			</div>
+		</section>
+		<section id="contact">
+			<div class="container">
+				<h1>Contact Us</h1>
+				<form>
+                    <fieldset>
+                        <label for="name">Name</label><br>
+                        <div class="row">
+                            <div class="col">
+                                <input type="text" placeholder="First" />
+                            </div>
+                            <div class="col">
+                                <input type="text" placeholder="Last"/>
+                            </div>
+                        </div>
+                
+                        <br>
+                
+                        <label for="account">Account</label><br>
+                        <div class="row">
+                            <div class="col">
+                                <input type="email" placeholder="email"/>
+                            </div>
+                            <div class="col">
+                                <input type="text" placeholder="password"/>
+                            </div>
+                        </div>
+                        
+                        <br>
+                
+                       <label for="phone number">Phone number</label><br>
+                       <input type="text" placeholder="phone number"/>
+                
+                       <br>
+                        
+                       <label for="other">Other</label><br>
+                       <div class="row">
+                            <div class="col">
+                                <input type="text" placeholder="nationality"/>
+                            </div>
+                            <div class="col">
+                                <input type="text" placeholder="interest"/>
+                            </div>
+                        </div>
+                
+                       <br>
+                
+                        <label for="Birthday">Birthday</label><br>
+                        <input type="date" placeholder="Birthday"/>
+                    
+                        <br>
+                                
+                        <label>Sex</label><br>
+                        <input type="radio" name="gender" value="male">male 
+                        <input type="radio" name="gender" value="female">female
+                        <input type="radio" name="gender" value="other">other
+                
+                    </fieldset>
+                    <button type="submit">Send Form</button>
+                </form>
+			</div>
+		</section>
+	</main>
+</body>
+</html>
