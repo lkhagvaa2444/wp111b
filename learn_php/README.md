@@ -1,86 +1,23 @@
-Here's an outline of what we'll cover:
-1. Introduction to PHP
-2. Setting up your development environment
-3. Basic syntax and data types
-4. Control structures
-5. Functions
-6. Arrays
-7. Strings
-8. Working with files
-9. Object-oriented programming
-10. PHP and databases
-11. Building a web application with PHP
-12. Debugging and error handling
+# PHP Learning GitHub Course
 
-Let's dive into each of these topics in more detail:
+This GitHub course is designed to help you learn PHP and build your own web applications. The course is divided into 12 topics, each covering a different aspect of PHP programming. 
 
-1. Introduction to PHP
+## Topics
 
-What is PHP?
-Why learn PHP?
-History of PHP
-PHP vs other server-side languages
-Setting up your development environment
+1. **[Introduction to PHP](01%20Introduction%20to%20PHP.md):** Learn what PHP is, why you should learn it, and how it compares to other server-side languages. Get started by setting up your development environment with PHP, a web server, and a database server.
+2. **[Environment](02%20Environment.md):** Learn about variables, constants, data types (strings, integers, floats, and booleans), and operators in PHP.
+3. **[Basic Syntax and Data Types in PHP](03%20Basic%20Syntax%20and%20Data%20Types%20in%20PHP.md):** Learn about if statements, switch statements, and loops (for, while, foreach).
+4. **[Control Structures in PHP](04%20Control%20Structures%20in%20PHP.md):** Learn how to create functions, pass arguments, return values, and use built-in functions.
+5. **[Functions](05%20Functions.md):** Learn how to create arrays, access array elements, modify arrays, and work with multidimensional arrays.
+6. **[Arrays](06%20Arrays.md):** Learn how to create strings, concatenate strings, and manipulate strings (substrings, replacing text).
+7. **[Strings](07%20Strings.md):** Learn how to read from and write to files, upload files, and handle file permissions.
+8. **[Classes and Objects](08%20Classes%20and%20Objects.md):** Learn about classes and objects, properties and methods, inheritance, and polymorphism.
+9. **[PHP and Databases](09%20PHP%20and%20Databases.md):** Learn how to connect to a database, execute queries, fetch data, and use prepared statements.
+10. **[Building a web application with PHP](10%20Building%20a%20web%20application%20with%20PHP.md):** Learn about HTML forms and PHP, sessions and cookies, authentication and authorization, and creating RESTful APIs with PHP.
+11. **[Debugging and Error Handling in PHP](11%20Debugging%20and%20Error%20Handling%20in%20PHP.md):** Learn about debugging techniques, error reporting and logging, and handling exceptions.
 
-2. Installing PHP
-Installing a web server (e.g. Apache, Nginx)
-Installing a database server (e.g. MySQL, PostgreSQL)
-Choosing an IDE or text editor (e.g. Visual Studio Code, PhpStorm)
-Basic syntax and data types
-
-3. Variables
-Constants
-Data types (e.g. strings, integers, floats, booleans)
-Operators
-Control structures
-
-4. If statements
-Switch statements
-Loops (e.g. for, while, foreach)
-Functions
-
-5. Creating functions
-Passing arguments to functions
-Returning values from functions
-Using built-in functions
-Arrays
-
-6. Creating arrays
-Accessing array elements
-Modifying arrays
-Multidimensional arrays
-Strings
-
-7. Creating strings
-Concatenating strings
-Manipulating strings (e.g. substrings, replacing text)
-Working with files
-
-8. Reading from files
-Writing to files
-Uploading files
-Handling file permissions
-Object-oriented programming
-
-9. Classes and objects
-Properties and methods
-Inheritance
-Polymorphism
-PHP and databases
-
-10. Connecting to a database
-Executing queries
-Fetching data
-Using prepared statements
-Building a web application with PHP
-
-11. HTML forms and PHP
-Sessions and cookies
-Authentication and authorization
-Creating RESTful APIs with PHP
-Debugging and error handling
-
-12. Debugging techniques
-Error reporting and logging
-Using try/catch blocks
-Handling exceptions
+## Refers
+#### [Chatgpt](https://chat.openai.com/chat)
+#### [Official PHP website](https://www.php.net/)
+#### [W3schools](https://www.w3schools.com/php/)
+#### [TutorialsPoint](https://www.tutorialspoint.com/php/index.htm)
